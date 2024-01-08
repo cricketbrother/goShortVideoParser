@@ -1,0 +1,2 @@
+# goShortVideoParser
+用Golang编写的短视频平台解析器，主要目的为自娱自乐
